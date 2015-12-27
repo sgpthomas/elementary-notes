@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+    <schema path="/org/pantheon/model/saved/" id="org.pantheon.model.saved" gettext-domain="model">
+        <key name="example" type="s">
+            <default>'test'</default>
+            <summary>Model GSchema Entry</summary>
+            <description>Model GSchema Entry</description>
+        </key>
+    </schema>
+</schemalist>

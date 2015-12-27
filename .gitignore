@@ -1,15 +1,2 @@
-working-dir
-hourglass.receipe
-build
-cmake
-data
-debian
-po
-schemas
-src
-build.sh
-CMakeLists.txt
-cmake_uninstall.cmake.in
-push.sh
 .bzrignore
 .bzr

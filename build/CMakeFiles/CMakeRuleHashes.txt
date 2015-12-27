@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+5b2c549fcb4778f0ab49b59d3304406f ../po/keep.pot
+de5fc1f3bb15223284cffe9a0b28f46d CMakeFiles/dist
+d36cb3ea7e290941a87453df30e0fab6 CMakeFiles/uninstall
+3b2ce2fb6ed131d6d5be830d6cb081bd po/CMakeFiles/i18n
+3b2ce2fb6ed131d6d5be830d6cb081bd po/CMakeFiles/pot
+3f11281b616b4b9a75e878c836280a93 src/CMakeFiles/pot_file
+3f11281b616b4b9a75e878c836280a93 src/Keep.c
+ec8949eb47a2f204d7a1a6167b1807e6 src/keep_valac.stamp

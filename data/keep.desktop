@@ -1,0 +1,20 @@
+[Desktop Entry]
+Type=Application
+Name=Keep
+Version=0.1.0
+Comment=Simple note taking application
+GenericName=Notes
+StartupWMClass=keep
+Exec=keep
+Icon=keep
+Terminal=false
+Categories=GTK;Utility;Productivity
+Keywords=Note;Notes;Write;Keep;
+X-GNOME-Keywords=Note;Notes;Write;Keep;
+StartupNotify=true
+X-GNOME-Gettext-Domain=keep
+Actions=AboutDialog;
+
+[Desktop Action AboutDialog]
+Exec=keep --about
+Name=About Keep

@@ -1,0 +1,6 @@
+/home/samthomas/Development/Vala/Keep/build/CMakeFiles/dist.dir
+/home/samthomas/Development/Vala/Keep/build/po/CMakeFiles/i18n.dir
+/home/samthomas/Development/Vala/Keep/build/src/CMakeFiles/keep.dir
+/home/samthomas/Development/Vala/Keep/build/po/CMakeFiles/pot.dir
+/home/samthomas/Development/Vala/Keep/build/src/CMakeFiles/pot_file.dir
+/home/samthomas/Development/Vala/Keep/build/CMakeFiles/uninstall.dir
